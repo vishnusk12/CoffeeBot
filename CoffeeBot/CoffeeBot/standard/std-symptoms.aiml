@@ -1,0 +1,1158 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<!-- Free software (c) 2001 ALICE AI Foundation -->
+<!-- This program is open source code released under -->
+<!-- the terms of the GNU General Public License -->
+<!-- as published by the Free Software Foundation. -->
+
+<meta name="author" content="Dr. Wallace"/>
+<meta name="language" content="en"/>
+
+
+<category>
+<pattern>*</pattern>
+<that>HOW LONG YOU HAVE BEEN SUFFERING FROM *</that>
+<template>
+Are you disturbed with
+</template>
+</category>
+
+<category>
+<pattern>YES</pattern>
+<that>ARE YOU DISTURBED WITH</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>S</pattern>
+<that>ARE YOU DISTURBED WITH</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>YS</pattern>
+<that>ARE YOU DISTURBED WITH</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>YA</pattern>
+<that>ARE YOU DISTURBED WITH</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>HMM</pattern>
+<that>ARE YOU DISTURBED WITH</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>HM</pattern>
+<that>ARE YOU DISTURBED WITH</that>
+<template>
+True
+</template>
+</category>
+
+
+<category>
+<pattern>MM</pattern>
+<that>ARE YOU DISTURBED WITH</that>
+<template>
+True
+</template>
+</category>
+
+
+<category>
+<pattern>YES *</pattern>
+<that>ARE YOU DISTURBED WITH</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>YEH *</pattern>
+<that>ARE YOU DISTURBED WITH</that>
+<template>
+<srai>YES<star index = "1"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>YUP *</pattern>
+<that>ARE YOU DISTURBED WITH</that>
+<template>
+<srai>YES<star index = "1"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>YUP</pattern>
+<that>ARE YOU DISTURBED WITH</that>
+<template>
+<srai>YES<star index = "1"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>YEH</pattern>
+<that>ARE YOU DISTURBED WITH</that>
+<template>
+<srai>YES</srai>
+</template>
+</category>
+
+<category>
+<pattern>YEA</pattern>
+<that>ARE YOU DISTURBED WITH</that>
+<template>
+<srai>YES</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>YEA *</pattern>
+<that>ARE YOU DISTURBED WITH</that>
+<template>
+<srai>YES<star index = "1"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>YEAH</pattern>
+<that>ARE YOU DISTURBED WITH</that>
+<template>
+<srai>YES</srai>
+</template>
+</category>
+
+<category>
+<pattern>YEAH *</pattern>
+<that>ARE YOU DISTURBED WITH</that>
+<template>
+<srai>YES<star index = "1"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>NO</pattern>
+<that>ARE YOU DISTURBED WITH</that>
+<template>
+False
+</template>
+</category>
+
+<category>
+<pattern>N</pattern>
+<that>ARE YOU DISTURBED WITH</that>
+<template>
+False
+</template>
+</category>
+
+<category>
+<pattern>NA</pattern>
+<that>ARE YOU DISTURBED WITH</that>
+<template>
+False
+</template>
+</category>
+
+<category>
+<pattern>NOP</pattern>
+<that>ARE YOU DISTURBED WITH</that>
+<template>
+<srai>NO</srai>
+</template>
+</category>
+
+<category>
+<pattern>NOP *</pattern>
+<that>ARE YOU DISTURBED WITH</that>
+<template>
+<srai>NO<star index = "1"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>NO *</pattern>
+<that>ARE YOU DISTURBED WITH</that>
+<template>
+False
+</template>
+</category>
+
+<category>
+<pattern>NOT *</pattern>
+<that>ARE YOU DISTURBED WITH</that>
+<template>
+False
+</template>
+</category>
+
+<category>
+<pattern>* NOT *</pattern>
+<that>ARE YOU DISTURBED WITH</that>
+<template>
+False
+</template>
+</category>
+
+
+<category>
+<pattern>I DONT *</pattern>
+<that>ARE YOU DISTURBED WITH</that>
+<template>
+False
+</template>
+</category>
+
+
+
+<category>
+<pattern>* DONT *</pattern>
+<that>ARE YOU DISTURBED WITH</that>
+<template>
+False
+</template>
+</category>
+
+<category>
+<pattern>YES</pattern>
+<that>TRUE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>S</pattern>
+<that>TRUE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>YS</pattern>
+<that>TRUE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>HMM</pattern>
+<that>TRUE</that>
+<template>
+True
+</template>
+</category>
+
+
+<category>
+<pattern>YA</pattern>
+<that>TRUE</that>
+<template>
+True
+</template>
+</category>
+
+
+<category>
+<pattern>MM</pattern>
+<that>TRUE</that>
+<template>
+True
+</template>
+</category>
+
+
+<category>
+<pattern>HM</pattern>
+<that>TRUE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>YES *</pattern>
+<that>TRUE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>YUP</pattern>
+<that>TRUE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>YUP *</pattern>
+<that>TRUE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>YEH</pattern>
+<that>TRUE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>YEH *</pattern>
+<that>TRUE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>YEAH</pattern>
+<that>TRUE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>YEA</pattern>
+<that>TRUE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>YEAH *</pattern>
+<that>TRUE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>I HAVE</pattern>
+<that>TRUE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>I HAVE *</pattern>
+<that>TRUE</that>
+<template>
+<srai>YES<star index = "1"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>NO</pattern>
+<that>TRUE</that>
+<template>
+False
+</template>
+</category>
+
+<category>
+<pattern>NO *</pattern>
+<that>TRUE</that>
+<template>
+False
+</template>
+</category>
+
+<category>
+<pattern>NOT *</pattern>
+<that>TRUE</that>
+<template>
+False
+</template>
+</category>
+
+<category>
+<pattern>* NOT *</pattern>
+<that>TRUE</that>
+<template>
+False
+</template>
+</category>
+
+<category>
+<pattern>NOP</pattern>
+<that>TRUE</that>
+<template>
+False
+</template>
+</category>
+
+
+<category>
+<pattern>I DONT *</pattern>
+<that>TRUE</that>
+<template>
+False
+</template>
+</category>
+
+<category>
+<pattern>I DONT</pattern>
+<that>TRUE</that>
+<template>
+False
+</template>
+</category>
+
+<category>
+<pattern>NO</pattern>
+<that>FALSE</that>
+<template>
+False
+</template>
+</category>
+
+<category>
+<pattern>NOP</pattern>
+<that>FALSE</that>
+<template>
+False
+</template>
+</category>
+
+<category>
+<pattern>N</pattern>
+<that>FALSE</that>
+<template>
+False
+</template>
+</category>
+
+<category>
+<pattern>NA</pattern>
+<that>FALSE</that>
+<template>
+False
+</template>
+</category>
+
+<category>
+<pattern>NOT *</pattern>
+<that>FALSE</that>
+<template>
+False
+</template>
+</category>
+
+<category>
+<pattern>* NOT *</pattern>
+<that>FALSE</that>
+<template>
+False
+</template>
+</category>
+
+<category>
+<pattern>* NOT</pattern>
+<that>FALSE</that>
+<template>
+False
+</template>
+</category>
+
+<category>
+<pattern>NO *</pattern>
+<that>FALSE</that>
+<template>
+False
+</template>
+</category>
+
+<category>
+<pattern>I DONT</pattern>
+<that>FALSE</that>
+<template>
+False
+</template>
+</category>
+
+<category>
+<pattern>I DONT *</pattern>
+<that>FALSE</that>
+<template>
+False
+</template>
+</category>
+
+
+<category>
+<pattern>YES</pattern>
+<that>FALSE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>YS</pattern>
+<that>FALSE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>S</pattern>
+<that>FALSE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>YA</pattern>
+<that>FALSE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>HMM</pattern>
+<that>FALSE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>MM</pattern>
+<that>FALSE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>HM</pattern>
+<that>FALSE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>YES *</pattern>
+<that>FALSE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>YUP</pattern>
+<that>FALSE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>YEA</pattern>
+<that>FALSE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>YUP *</pattern>
+<that>FALSE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>YEA *</pattern>
+<that>FALSE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>* YUP *</pattern>
+<that>FALSE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>* YEA *</pattern>
+<that>FALSE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>* YUP</pattern>
+<that>FALSE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>* YEA</pattern>
+<that>FALSE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>* YES *</pattern>
+<that>FALSE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>YEAH</pattern>
+<that>FALSE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>* YEAH *</pattern>
+<that>FALSE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>* YEAH</pattern>
+<that>FALSE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>YEAH *</pattern>
+<that>FALSE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>* YEH *</pattern>
+<that>FALSE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>* YEH</pattern>
+<that>FALSE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>YEH *</pattern>
+<that>FALSE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>I HAVE</pattern>
+<that>FALSE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>I HAVE *</pattern>
+<that>FALSE</that>
+<template>
+True
+</template>
+</category>
+
+<category>
+<pattern>* HAVE *</pattern>
+<that>FALSE</that>
+<template>
+True
+</template>
+</category>
+
+
+<category>
+<pattern>* HAVING * ON MY *</pattern>
+<template>
+how long you have been suffering from <star index = "2"/> on your <star index = "3"/>?
+</template>
+</category>
+
+
+<category>
+<pattern>* HAVING * ON *</pattern>
+<template>
+<srai><star index = "1"/> HAVING <star index = "2"/> ON MY <star index = "3"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>* HAVING * ON * FOR *</pattern>
+<template>
+Are you disturbed with
+</template>
+</category>
+
+<category>
+<pattern>HAVE * ON *</pattern>
+<template>
+<srai><star index = "1"/>  HAVING <star index = "1"/> ON MY <star index = "2"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>HAVE * ON * FOR *</pattern>
+<template>
+<srai><star index = "1"/>  HAVING <star index = "1"/> ON <star index = "2"/> FOR <star index = "3"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>HAVE * ON MY *</pattern>
+<template>
+<srai><star index = "1"/>  HAVING <star index = "1"/> ON MY <star index = "2"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>HAVE * ON MY * FOR *</pattern>
+<template>
+<srai><star index = "1"/>  HAVING <star index = "1"/> ON <star index = "2"/> FOR <star index = "3"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>I HAVE * ON MY *</pattern>
+<template>
+<srai><star index = "1"/>  HAVING <star index = "2"/> ON MY <star index = "2"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>I HAVE * ON MY * FOR *</pattern>
+<template>
+<srai><star index = "1"/>  HAVING <star index = "1"/> ON <star index = "2"/> FOR <star index = "3"/></srai>
+</template>
+</category>
+
+
+<category>
+<pattern>I HAVE *</pattern>
+<template>
+How long you have been suffering from <star/> ?
+</template>
+</category>
+
+<category>
+<pattern>* I HAVE *</pattern>
+<template>
+How long you have been suffering from <star index = "2"/> ?
+</template>
+</category>
+
+<category>
+<pattern>I HAVE * FOR *</pattern>
+<template>
+<srai><star index = "1"/>  HAVING <star index = "1"/> ON <star index = "2"/> FOR <star index = "2"/></srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* SUFFERING *</pattern>
+<template>
+<srai>I HAVE <star index = "2"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>* SICK OF *</pattern>
+<template>
+<srai>I HAVE <star index = "2"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>* SICK OF * FOR *</pattern>
+<template>
+<srai><star index = "1"/>  HAVING <star index = "1"/> ON <star index = "2"/> FOR <star index = "2"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>SUFFERING FROM *</pattern>
+<template>
+<srai>I HAVE <star index = "1"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>* SUFFERING * FOR *</pattern>
+<template>
+<srai><star index = "1"/>  HAVING <star index = "1"/> ON <star index = "2"/> FOR <star index = "2"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>SUFFERING * FOR *</pattern>
+<template>
+<srai><star index = "1"/>  HAVING <star index = "1"/> ON <star index = "2"/> FOR <star index = "2"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>* TIRED WITH *</pattern>
+<template>
+<srai>I HAVE <star index = "2"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>* TIRED WITH * FOR *</pattern>
+<template>
+<srai><star index = "1"/>  HAVING <star index = "1"/> ON <star index = "2"/> FOR <star index = "2"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>* TIRED OF *</pattern>
+<template>
+<srai>I HAVE <star index = "2"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>* TIRED OF * FOR *</pattern>
+<template>
+<srai><star index = "1"/>  HAVING <star index = "1"/> ON <star index = "2"/> FOR <star index = "2"/></srai>
+</template>
+</category>
+
+
+<category>
+<pattern>I AM EXPERIENCING * FOR *</pattern>
+<template>
+<srai><star index = "1"/>  HAVING <star index = "1"/> ON <star index = "2"/> FOR <star index = "2"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>I FEEL *</pattern>
+<template>
+<srai>I HAVE <star index = "1"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>I AM HAVING *</pattern>
+<template>
+<srai>I HAVE <star index = "1"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>AM HAVING *</pattern>
+<template>
+<srai>I HAVE <star index = "1"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>DISTURBED WITH *</pattern>
+<template>
+<srai>I HAVE <star index = "1"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>* DISTURBED WITH *</pattern>
+<template>
+<srai>I HAVE <star index = "2"/></srai>
+</template>
+</category>
+
+
+
+<category>
+<pattern>I AM EXPERIENCING *</pattern>
+<template>
+<srai>I HAVE <star index = "1"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>AM EXPERIENCING *</pattern>
+<template>
+<srai>I HAVE <star index = "1"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>I WAS EXPERIENCING *</pattern>
+<template>
+<srai>I HAVE <star index = "1"/></srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* TROUBLED BY *</pattern>
+<template>
+<srai>I HAVE <star index = "2"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>* TROUBLED WITH *</pattern>
+<template>
+<srai>I HAVE <star index = "2"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>I HAVE * BUT I DO NOT HAVE *</pattern>
+<template>
+<star index = "2"/>
+</template>
+</category>
+
+<category>
+<pattern>I HAVE * BUT I DONT HAVE *</pattern>
+<template>
+<star index = "2"/>
+</template>
+</category>
+
+<category>
+<pattern>I FEEL * BUT I DO NOT HAVE *</pattern>
+<template>
+<star index = "2"/>
+</template>
+</category>
+
+<category>
+<pattern>I FEEL * BUT I DONT HAVE *</pattern>
+<template>
+<star index = "2"/>
+</template>
+</category>
+
+<category>
+<pattern>I FEEL * BUT NOT *</pattern>
+<template>
+<star index = "2"/>
+</template>
+</category>
+
+<category>
+<pattern>I HAVE * BUT NOT *</pattern>
+<template>
+<star index = "2"/>
+</template>
+</category>
+
+<category>
+<pattern>* SUFFERING * BUT NOT *</pattern>
+<template>
+<star index = "3"/>
+</template>
+</category>
+
+
+
+
+<category>
+<pattern>I FEEL * FOR *</pattern>
+<template>
+<srai><star index = "1"/>  HAVING <star index = "1"/> ON <star index = "2"/> FOR <star index = "2"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>* FEELING *</pattern>
+<template>
+<srai>I HAVE <star index = "2"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>* FEELING * FOR *</pattern>
+<template>
+<srai><star index = "1"/>  HAVING <star index = "1"/> ON <star index = "2"/> FOR <star index = "2"/></srai>
+</template>
+</category>
+
+<category>
+<pattern>I FEEL UNWELL</pattern> 
+<template>
+Sad to hear that, tell me the symptoms you have..
+</template>
+</category>
+
+
+<category>
+<pattern>THANKS</pattern>
+<template>
+Welcome..
+</template>
+</category>
+
+<category>
+<pattern>THANK YOU</pattern>
+<template>
+<srai>THANKS</srai>
+</template>
+</category>
+
+<category>
+<pattern>* THANK YOU</pattern>
+<template>
+<srai>THANKS</srai>
+</template>
+</category>
+
+<category>
+<pattern>* THANKS</pattern>
+<template>
+Welcome..
+</template>
+</category>
+
+
+<category>
+<pattern>THANK U</pattern>
+<template>
+Welcome..
+</template>
+</category>
+
+
+<category>
+<pattern>OK</pattern>
+<template>
+Ok.
+</template>
+</category>
+
+<category>
+<pattern>OK FINE</pattern>
+<template>
+Ok.
+</template>
+</category>
+
+<category>
+<pattern>OK FINE</pattern>
+<template>
+Ok.
+</template>
+</category>
+
+<category>
+<pattern>FINE</pattern>
+<template>
+Ok.
+</template>
+</category>
+
+<category>
+<pattern>* DISEASES</pattern>
+<template>
+Diseases are disorder of structure or function in a human, animal, or plant, especially one that produces specific symptoms or that affects a specific location and is not simply a direct result of physical injury. I can help you to understand the diseases you have, if you can tell me about the symptoms you have.
+</template>
+</category>
+
+<category>
+<pattern>* DISEASES *</pattern>
+<template>
+Diseases are disorder of structure or function in a human, animal, or plant, especially one that produces specific symptoms or that affects a specific location and is not simply a direct result of physical injury. I can help you to understand the diseases you have, if you can tell me about the symptoms you have.
+</template>
+</category>
+
+<category>
+<pattern>I FEEL HAPPY</pattern>
+<template>
+Nice to hear that you are feeling happy.
+</template>  
+</category>   
+
+<category>
+<pattern>I FEEL GREAT</pattern>
+<template>
+Nice to hear that you are feeling great.
+</template>  
+</category>   
+
+<category>
+<pattern>I FEEL PLEASURE</pattern>
+<template>
+Nice to hear that you are feeling pleasure.
+</template>  
+</category>   
+
+<category>
+<pattern>I FEEL SAD</pattern>
+<template>
+Sad to hear that.
+</template>  
+</category>   
+
+
+
+</aiml>

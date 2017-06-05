@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<!-- Free software (c) 2001 ALICE AI Foundation -->
+<!-- This program is open source code released under -->
+<!-- the terms of the GNU General Public License -->
+<!-- as published by the Free Software Foundation. -->
+
+<meta name="author" content="Dr. Wallace"/>
+<meta name="language" content="en"/>
+
+
+<category>
+<pattern>* REAL ESTATE *</pattern>
+<template>
+Real estate fundamentals continue to steadily improve, transaction volume and prices are back to historical high levels. Despite the current length of the real estate market expansion, the amount of new supply remains at low levels.
+</template>
+</category>
+
+<category>
+<pattern>* REAL ESTATE</pattern>
+<template>
+Real estate fundamentals continue to steadily improve, transaction volume and prices are back to historical high levels. Despite the current length of the real estate market expansion, the amount of new supply remains at low levels.
+</template>
+</category>
+
+<category>
+<pattern>REAL ESTATE</pattern>
+<template>
+Real estate fundamentals continue to steadily improve, transaction volume and prices are back to historical high levels. Despite the current length of the real estate market expansion, the amount of new supply remains at low levels.
+</template>
+</category>
+
+
+<category>
+<pattern>REAL ESTATE *</pattern>
+<template>
+Real estate fundamentals continue to steadily improve, transaction volume and prices are back to historical high levels. Despite the current length of the real estate market expansion, the amount of new supply remains at low levels.
+</template>
+</category>
+
+
+<category>
+<pattern>GROWTH</pattern>
+<template>
+Real estate fundamentals continue to steadily improve, transaction volume and prices are back to historical high levels. Despite the current length of the real estate market expansion, the amount of new supply remains at low levels.
+</template>
+</category>
+
+<category>
+<pattern>* GROWTH *</pattern>
+<template>
+Real estate fundamentals continue to steadily improve, transaction volume and prices are back to historical high levels. Despite the current length of the real estate market expansion, the amount of new supply remains at low levels.
+</template>
+</category>
+
+<category>
+<pattern>* GROWTH</pattern>
+<template>
+Real estate fundamentals continue to steadily improve, transaction volume and prices are back to historical high levels. Despite the current length of the real estate market expansion, the amount of new supply remains at low levels.
+</template>
+</category>
+
+<category>
+<pattern>GROWTH *</pattern>
+<template>
+Real estate fundamentals continue to steadily improve, transaction volume and prices are back to historical high levels. Despite the current length of the real estate market expansion, the amount of new supply remains at low levels.
+</template>
+</category>
+
+<category>
+<pattern>TREND</pattern>
+<template>
+Real estate fundamentals continue to steadily improve, transaction volume and prices are back to historical high levels. Despite the current length of the real estate market expansion, the amount of new supply remains at low levels.
+</template>
+</category>
+
+<category>
+<pattern>* TREND *</pattern>
+<template>
+Real estate fundamentals continue to steadily improve, transaction volume and prices are back to historical high levels. Despite the current length of the real estate market expansion, the amount of new supply remains at low levels.
+</template>
+</category>
+
+<category>
+<pattern>* TREND</pattern>
+<template>
+Real estate fundamentals continue to steadily improve, transaction volume and prices are back to historical high levels. Despite the current length of the real estate market expansion, the amount of new supply remains at low levels.
+</template>
+</category>
+
+<category>
+<pattern>TREND *</pattern>
+<template>
+Real estate fundamentals continue to steadily improve, transaction volume and prices are back to historical high levels. Despite the current length of the real estate market expansion, the amount of new supply remains at low levels.
+</template>
+</category>
+
+<category>
+<pattern>MARKET</pattern>
+<template>
+Real estate fundamentals continue to steadily improve, transaction volume and prices are back to historical high levels. Despite the current length of the real estate market expansion, the amount of new supply remains at low levels.
+</template>
+</category>
+
+<category>
+<pattern>* MARKET *</pattern>
+<template>
+Real estate fundamentals continue to steadily improve, transaction volume and prices are back to historical high levels. Despite the current length of the real estate market expansion, the amount of new supply remains at low levels.
+</template>
+</category>
+
+<category>
+<pattern>* MARKET</pattern>
+<template>
+Real estate fundamentals continue to steadily improve, transaction volume and prices are back to historical high levels. Despite the current length of the real estate market expansion, the amount of new supply remains at low levels.
+</template>
+</category>
+
+<category>
+<pattern>MARKET *</pattern>
+<template>
+Real estate fundamentals continue to steadily improve, transaction volume and prices are back to historical high levels. Despite the current length of the real estate market expansion, the amount of new supply remains at low levels.
+</template>
+</category>
+
+<category>
+<pattern>* WALK SCORE *</pattern> 
+<template>
+Walk Score makes it easy for apartment renters and homebuyers to find neighborhoods where they can drive less and live more. Walk Score believes that walkable neighborhoods with access to public transit, shorter commutes, and proximity to the people and places you love are the key to a happier, healthier and more sustainable lifestyle. The average Walk Score is 77.
+</template>
+</category>
+
+<category>
+<pattern>WALK SCORE *</pattern> 
+<template>
+Walk Score makes it easy for apartment renters and homebuyers to find neighborhoods where they can drive less and live more. Walk Score believes that walkable neighborhoods with access to public transit, shorter commutes, and proximity to the people and places you love are the key to a happier, healthier and more sustainable lifestyle. The average Walk Score is 77.
+</template>
+</category>
+
+<category>
+<pattern>* WALK SCORE</pattern> 
+<template>
+Walk Score makes it easy for apartment renters and homebuyers to find neighborhoods where they can drive less and live more. Walk Score believes that walkable neighborhoods with access to public transit, shorter commutes, and proximity to the people and places you love are the key to a happier, healthier and more sustainable lifestyle. The average Walk Score is 77.
+</template>
+</category>
+
+<category>
+<pattern>WALK SCORE</pattern> 
+<template>
+Walk Score makes it easy for apartment renters and homebuyers to find neighborhoods where they can drive less and live more. Walk Score believes that walkable neighborhoods with access to public transit, shorter commutes, and proximity to the people and places you love are the key to a happier, healthier and more sustainable lifestyle. The average Walk Score is 77.
+</template>
+</category>
+
+<category>
+<pattern>* WALKSCORE *</pattern> 
+<template>
+Walk Score makes it easy for apartment renters and homebuyers to find neighborhoods where they can drive less and live more. Walk Score believes that walkable neighborhoods with access to public transit, shorter commutes, and proximity to the people and places you love are the key to a happier, healthier and more sustainable lifestyle. The average Walk Score is 77.
+</template>
+</category>
+
+<category>
+<pattern>* WALKSCORE</pattern> 
+<template>
+Walk Score makes it easy for apartment renters and homebuyers to find neighborhoods where they can drive less and live more. Walk Score believes that walkable neighborhoods with access to public transit, shorter commutes, and proximity to the people and places you love are the key to a happier, healthier and more sustainable lifestyle. The average Walk Score is 77.
+</template>
+</category>
+
+<category>
+<pattern>WALKSCORE *</pattern> 
+<template>
+Walk Score makes it easy for apartment renters and homebuyers to find neighborhoods where they can drive less and live more. Walk Score believes that walkable neighborhoods with access to public transit, shorter commutes, and proximity to the people and places you love are the key to a happier, healthier and more sustainable lifestyle. The average Walk Score is 77.
+</template>
+</category>
+
+<category>
+<pattern>WALKSCORE</pattern> 
+<template>
+Walk Score makes it easy for apartment renters and homebuyers to find neighborhoods where they can drive less and live more. Walk Score believes that walkable neighborhoods with access to public transit, shorter commutes, and proximity to the people and places you love are the key to a happier, healthier and more sustainable lifestyle. The average Walk Score is 77.
+</template>
+</category>
+
+<category>
+<pattern>* TOP CITIES *</pattern> 
+<template>
+Dallas, Denver, Miami, Houston, Atlanta, Tampa,Fla., Detroit, Austin,Texas., Las Vegas and Orlando,Fla.
+</template>
+</category>
+
+<category>
+<pattern>* BEST CITIES *</pattern> 
+<template>
+Dallas, Denver, Miami, Houston, Atlanta, Tampa,Fla., Detroit, Austin,Texas., Las Vegas and Orlando,Fla.
+</template>
+</category>
+
+<category>
+<pattern>TOP CITIES*</pattern> 
+<template>
+Dallas, Denver, Miami, Houston, Atlanta, Tampa,Fla., Detroit, Austin,Texas., Las Vegas and Orlando,Fla.
+</template>
+</category>
+
+<category>
+<pattern>* TOP CITIES</pattern> 
+<template>
+Dallas, Denver, Miami, Houston, Atlanta, Tampa,Fla., Detroit, Austin,Texas., Las Vegas and Orlando,Fla.
+</template>
+</category>
+
+<category>
+<pattern>TOP CITIES</pattern> 
+<template>
+Dallas, Denver, Miami, Houston, Atlanta, Tampa,Fla., Detroit, Austin,Texas., Las Vegas and Orlando,Fla.
+</template>
+</category>
+
+
+<category>
+<pattern>* CRIME *</pattern> 
+<template>
+All of the offenses in the violent crime category—murder and non-negligent manslaughter, rape (revised definition), rape (legacy definition), aggravated assault, and robbery—showed increases when data from the first six months of 2016 were compared with data from the first six months of 2015. The number of aggravated assaults increased 6.5 percent, murders increased 5.2 percent, rapes (legacy definition) increased 4.4 percent, rapes (revised definition) rose 3.5 percent, and robbery offenses were up 3.2 percent. In the property crime category, offenses dropped 0.6 percent. Burglaries were down 3.4 percent, and larceny-thefts declined 0.8 percent. However, motor vehicle thefts increased 6.6 percent.
+</template>
+</category>
+
+<category>
+<pattern>* CRIME</pattern> 
+<template>
+All of the offenses in the violent crime category—murder and non-negligent manslaughter, rape (revised definition), rape (legacy definition), aggravated assault, and robbery—showed increases when data from the first six months of 2016 were compared with data from the first six months of 2015. The number of aggravated assaults increased 6.5 percent, murders increased 5.2 percent, rapes (legacy definition) increased 4.4 percent, rapes (revised definition) rose 3.5 percent, and robbery offenses were up 3.2 percent. In the property crime category, offenses dropped 0.6 percent. Burglaries were down 3.4 percent, and larceny-thefts declined 0.8 percent. However, motor vehicle thefts increased 6.6 percent.
+</template>
+</category>
+
+<category>
+<pattern>CRIME *</pattern> 
+<template>
+All of the offenses in the violent crime category—murder and non-negligent manslaughter, rape (revised definition), rape (legacy definition), aggravated assault, and robbery—showed increases when data from the first six months of 2016 were compared with data from the first six months of 2015. The number of aggravated assaults increased 6.5 percent, murders increased 5.2 percent, rapes (legacy definition) increased 4.4 percent, rapes (revised definition) rose 3.5 percent, and robbery offenses were up 3.2 percent. In the property crime category, offenses dropped 0.6 percent. Burglaries were down 3.4 percent, and larceny-thefts declined 0.8 percent. However, motor vehicle thefts increased 6.6 percent.
+</template>
+</category>
+
+<category>
+<pattern>CRIME RATE</pattern> 
+<template>
+All of the offenses in the violent crime category—murder and non-negligent manslaughter, rape (revised definition), rape (legacy definition), aggravated assault, and robbery—showed increases when data from the first six months of 2016 were compared with data from the first six months of 2015. The number of aggravated assaults increased 6.5 percent, murders increased 5.2 percent, rapes (legacy definition) increased 4.4 percent, rapes (revised definition) rose 3.5 percent, and robbery offenses were up 3.2 percent. In the property crime category, offenses dropped 0.6 percent. Burglaries were down 3.4 percent, and larceny-thefts declined 0.8 percent. However, motor vehicle thefts increased 6.6 percent.
+</template>
+</category>
+
+<category>
+<pattern>* TOP REAL *</pattern> 
+<template>
+RE/MAX, Century 21, Keller Williams Realty, Inc., Coldwell Banker, ERA Real Estate, Sotheby’s International Realty, The Corcoran Group, Camden Property Trust, and Better Homes and Gardens Real Estate.
+</template>
+</category>
+
+<category>
+<pattern>TOP REAL *</pattern> 
+<template>
+RE/MAX, Century 21, Keller Williams Realty, Inc., Coldwell Banker, ERA Real Estate, Sotheby’s International Realty, The Corcoran Group, Camden Property Trust, and Better Homes and Gardens Real Estate.
+</template>
+</category>
+
+<category>
+<pattern>* TOP REAL ESTATE AGENCIES</pattern> 
+<template>
+RE/MAX, Century 21, Keller Williams Realty, Inc., Coldwell Banker, ERA Real Estate, Sotheby’s International Realty, The Corcoran Group, Camden Property Trust, and Better Homes and Gardens Real Estate.
+</template>
+</category>
+
+<category>
+<pattern>* TOP REAL ESTATE AGENCY</pattern> 
+<template>
+RE/MAX, Century 21, Keller Williams Realty, Inc., Coldwell Banker, ERA Real Estate, Sotheby’s International Realty, The Corcoran Group, Camden Property Trust, and Better Homes and Gardens Real Estate.
+</template>
+</category>
+
+<category>
+<pattern>* TOP REAL ESTATE AGENCIES *</pattern> 
+<template>
+RE/MAX, Century 21, Keller Williams Realty, Inc., Coldwell Banker, ERA Real Estate, Sotheby’s International Realty, The Corcoran Group, Camden Property Trust, and Better Homes and Gardens Real Estate.
+</template>
+</category>
+
+<category>
+<pattern>* BEST REAL ESTATE AGENCIES</pattern> 
+<template>
+RE/MAX, Century 21, Keller Williams Realty, Inc., Coldwell Banker, ERA Real Estate, Sotheby’s International Realty, The Corcoran Group, Camden Property Trust, and Better Homes and Gardens Real Estate.
+</template>
+</category>
+
+<category>
+<pattern>BEST REAL ESTATE AGENCIES</pattern> 
+<template>
+RE/MAX, Century 21, Keller Williams Realty, Inc., Coldwell Banker, ERA Real Estate, Sotheby’s International Realty, The Corcoran Group, Camden Property Trust, and Better Homes and Gardens Real Estate.
+</template>
+</category>
+
+<category>
+<pattern>* BEST REAL *</pattern> 
+<template>
+RE/MAX, Century 21, Keller Williams Realty, Inc., Coldwell Banker, ERA Real Estate, Sotheby’s International Realty, The Corcoran Group, Camden Property Trust, and Better Homes and Gardens Real Estate.
+</template>
+</category>
+
+
+<category>
+<pattern>* FORECLOSURE *</pattern> 
+<template>
+Foreclosure is a process that allows a lender to recover the amount owed on a defaulted loan by selling or taking ownership (repossession) of the property securing the loan. The foreclosure process begins when a borrower/owner defaults on loan payments (usually mortgage payments) and the lender files a public default notice, called a Notice of Default or Lis Pendens.
+</template>
+</category>
+
+<category>
+<pattern>* FORECLOSURE</pattern> 
+<template>
+Foreclosure is a process that allows a lender to recover the amount owed on a defaulted loan by selling or taking ownership (repossession) of the property securing the loan. The foreclosure process begins when a borrower/owner defaults on loan payments (usually mortgage payments) and the lender files a public default notice, called a Notice of Default or Lis Pendens.
+</template>
+</category>
+
+<category>
+<pattern>FORECLOSURE *</pattern> 
+<template>
+Foreclosure is a process that allows a lender to recover the amount owed on a defaulted loan by selling or taking ownership (repossession) of the property securing the loan. The foreclosure process begins when a borrower/owner defaults on loan payments (usually mortgage payments) and the lender files a public default notice, called a Notice of Default or Lis Pendens.
+</template>
+</category>
+
+<category>
+<pattern>* PRE-FORECLOSURE *</pattern> 
+<template>
+Property owners who are late in their mortgage payments will receive a Notice of Default from their lender.  Notices of default are filed with the local records authority.  A Lis Pendens filing may also be filed to notify any other lien holders. The Notice of Default provides instructions to the homeowner on the amount they are required to pay and how much time they have to pay. If the homeowner pays according to these instructions, the foreclosure process is ended.
+</template>
+</category>
+
+<category>
+<pattern>PRE-FORECLOSURE *</pattern> 
+<template>
+Property owners who are late in their mortgage payments will receive a Notice of Default from their lender.  Notices of default are filed with the local records authority.  A Lis Pendens filing may also be filed to notify any other lien holders. The Notice of Default provides instructions to the homeowner on the amount they are required to pay and how much time they have to pay. If the homeowner pays according to these instructions, the foreclosure process is ended.
+</template>
+</category>
+
+<category>
+<pattern>* PRE-FORECLOSURE</pattern> 
+<template>
+Property owners who are late in their mortgage payments will receive a Notice of Default from their lender.  Notices of default are filed with the local records authority.  A Lis Pendens filing may also be filed to notify any other lien holders. The Notice of Default provides instructions to the homeowner on the amount they are required to pay and how much time they have to pay. If the homeowner pays according to these instructions, the foreclosure process is ended.
+</template>
+</category>
+
+<category>
+<pattern>PRE-FORECLOSURE</pattern> 
+<template>
+Property owners who are late in their mortgage payments will receive a Notice of Default from their lender.  Notices of default are filed with the local records authority.  A Lis Pendens filing may also be filed to notify any other lien holders. The Notice of Default provides instructions to the homeowner on the amount they are required to pay and how much time they have to pay. If the homeowner pays according to these instructions, the foreclosure process is ended.
+</template>
+</category>
+
+<category>
+<pattern>* PREFORECLOSURE *</pattern> 
+<template>
+Property owners who are late in their mortgage payments will receive a Notice of Default from their lender.  Notices of default are filed with the local records authority.  A Lis Pendens filing may also be filed to notify any other lien holders. The Notice of Default provides instructions to the homeowner on the amount they are required to pay and how much time they have to pay. If the homeowner pays according to these instructions, the foreclosure process is ended.
+</template>
+</category>
+
+<category>
+<pattern>PREFORECLOSURE *</pattern> 
+<template>
+Property owners who are late in their mortgage payments will receive a Notice of Default from their lender.  Notices of default are filed with the local records authority.  A Lis Pendens filing may also be filed to notify any other lien holders. The Notice of Default provides instructions to the homeowner on the amount they are required to pay and how much time they have to pay. If the homeowner pays according to these instructions, the foreclosure process is ended.
+</template>
+</category>
+
+<category>
+<pattern>* PREFORECLOSURE</pattern> 
+<template>
+Property owners who are late in their mortgage payments will receive a Notice of Default from their lender.  Notices of default are filed with the local records authority.  A Lis Pendens filing may also be filed to notify any other lien holders. The Notice of Default provides instructions to the homeowner on the amount they are required to pay and how much time they have to pay. If the homeowner pays according to these instructions, the foreclosure process is ended.
+</template>
+</category>
+
+<category>
+<pattern>PREFORECLOSURE</pattern> 
+<template>
+Property owners who are late in their mortgage payments will receive a Notice of Default from their lender.  Notices of default are filed with the local records authority.  A Lis Pendens filing may also be filed to notify any other lien holders. The Notice of Default provides instructions to the homeowner on the amount they are required to pay and how much time they have to pay. If the homeowner pays according to these instructions, the foreclosure process is ended.
+</template>
+</category>
+
+<category>
+<pattern>* AUCTION *</pattern> 
+<template>
+If the loan is not reinstated by the end of the pre-foreclosure period, the property will be sold at a public auction. Buyers often are required to pay in cash at the auction and may not have much time to research the title and condition of the property beforehand; however, a public auction often offers the lender a way to quickly liquidate the property.  The lender typically sets a minimum bid at foreclosure auction equal to the amount owed on the property plus fees and various costs to the lender.
+</template>
+</category>
+
+<category>
+<pattern>AUCTION *</pattern> 
+<template>
+If the loan is not reinstated by the end of the pre-foreclosure period, the property will be sold at a public auction. Buyers often are required to pay in cash at the auction and may not have much time to research the title and condition of the property beforehand; however, a public auction often offers the lender a way to quickly liquidate the property.  The lender typically sets a minimum bid at foreclosure auction equal to the amount owed on the property plus fees and various costs to the lender.
+</template>
+</category>
+
+<category>
+<pattern>* AUCTION</pattern> 
+<template>
+If the loan is not reinstated by the end of the pre-foreclosure period, the property will be sold at a public auction. Buyers often are required to pay in cash at the auction and may not have much time to research the title and condition of the property beforehand; however, a public auction often offers the lender a way to quickly liquidate the property.  The lender typically sets a minimum bid at foreclosure auction equal to the amount owed on the property plus fees and various costs to the lender.
+</template>
+</category>
+
+<category>
+<pattern>AUCTION</pattern> 
+<template>
+If the loan is not reinstated by the end of the pre-foreclosure period, the property will be sold at a public auction. Buyers often are required to pay in cash at the auction and may not have much time to research the title and condition of the property beforehand; however, a public auction often offers the lender a way to quickly liquidate the property.  The lender typically sets a minimum bid at foreclosure auction equal to the amount owed on the property plus fees and various costs to the lender.
+</template>
+</category>
+
+<category>
+<pattern>* SHORT SALE *</pattern> 
+<template>
+A short sale is a sale of real estate in which the net proceeds from selling the property will fall short of the debts secured by liens against the property. In this case, if all lien holders agree to accept less than the amount owed on the debt, a sale of the property can be accomplished.
+</template>
+</category>
+
+<category>
+<pattern>* SHORT SALE</pattern> 
+<template>
+A short sale is a sale of real estate in which the net proceeds from selling the property will fall short of the debts secured by liens against the property. In this case, if all lien holders agree to accept less than the amount owed on the debt, a sale of the property can be accomplished.
+</template>
+</category>
+
+<category>
+<pattern>SHORT SALE *</pattern> 
+<template>
+A short sale is a sale of real estate in which the net proceeds from selling the property will fall short of the debts secured by liens against the property. In this case, if all lien holders agree to accept less than the amount owed on the debt, a sale of the property can be accomplished.
+</template>
+</category>
+
+<category>
+<pattern>SHORT SALE</pattern> 
+<template>
+A short sale is a sale of real estate in which the net proceeds from selling the property will fall short of the debts secured by liens against the property. In this case, if all lien holders agree to accept less than the amount owed on the debt, a sale of the property can be accomplished.
+</template>
+</category>
+
+<category>
+<pattern>* SHORT SALES *</pattern> 
+<template>
+A short sale is a sale of real estate in which the net proceeds from selling the property will fall short of the debts secured by liens against the property. In this case, if all lien holders agree to accept less than the amount owed on the debt, a sale of the property can be accomplished.
+</template>
+</category>
+
+<category>
+<pattern>* SHORT SALES</pattern> 
+<template>
+A short sale is a sale of real estate in which the net proceeds from selling the property will fall short of the debts secured by liens against the property. In this case, if all lien holders agree to accept less than the amount owed on the debt, a sale of the property can be accomplished.
+</template>
+</category>
+
+<category>
+<pattern>SHORT SALES *</pattern> 
+<template>
+A short sale is a sale of real estate in which the net proceeds from selling the property will fall short of the debts secured by liens against the property. In this case, if all lien holders agree to accept less than the amount owed on the debt, a sale of the property can be accomplished.
+</template>
+</category>
+
+<category>
+<pattern>SHORT SALES</pattern> 
+<template>
+A short sale is a sale of real estate in which the net proceeds from selling the property will fall short of the debts secured by liens against the property. In this case, if all lien holders agree to accept less than the amount owed on the debt, a sale of the property can be accomplished.
+</template>
+</category>
+
+
+<category>
+<pattern>* MULTIPLE LISTING SERVICES *</pattern> 
+<template>
+A multiple listing service (MLS, also multiple listing system or multiple listings service) is a suite of services that enable real estate brokers to establish contractual offers of compensation (among brokers), facilitates cooperation with other broker participants, accumulates and disseminates information to enable appraisals, and is a facility for the orderly correlation and dissemination of listing information to better serve broker's clients, customers and the public.
+</template>
+</category>
+
+<category>
+<pattern>* MULTIPLE LISTING SERVICES</pattern> 
+<template>
+A multiple listing service (MLS, also multiple listing system or multiple listings service) is a suite of services that enable real estate brokers to establish contractual offers of compensation (among brokers), facilitates cooperation with other broker participants, accumulates and disseminates information to enable appraisals, and is a facility for the orderly correlation and dissemination of listing information to better serve broker's clients, customers and the public.
+</template>
+</category>
+
+<category>
+<pattern>MULTIPLE LISTING SERVICES *</pattern> 
+<template>
+A multiple listing service (MLS, also multiple listing system or multiple listings service) is a suite of services that enable real estate brokers to establish contractual offers of compensation (among brokers), facilitates cooperation with other broker participants, accumulates and disseminates information to enable appraisals, and is a facility for the orderly correlation and dissemination of listing information to better serve broker's clients, customers and the public.
+</template>
+</category>
+
+<category>
+<pattern>MULTIPLE LISTING SERVICES</pattern> 
+<template>
+A multiple listing service (MLS, also multiple listing system or multiple listings service) is a suite of services that enable real estate brokers to establish contractual offers of compensation (among brokers), facilitates cooperation with other broker participants, accumulates and disseminates information to enable appraisals, and is a facility for the orderly correlation and dissemination of listing information to better serve broker's clients, customers and the public.
+</template>
+</category>
+
+<category>
+<pattern>* MLS *</pattern> 
+<template>
+A multiple listing service (MLS, also multiple listing system or multiple listings service) is a suite of services that enable real estate brokers to establish contractual offers of compensation (among brokers), facilitates cooperation with other broker participants, accumulates and disseminates information to enable appraisals, and is a facility for the orderly correlation and dissemination of listing information to better serve broker's clients, customers and the public.
+</template>
+</category>
+
+<category>
+<pattern>* MLS</pattern> 
+<template>
+A multiple listing service (MLS, also multiple listing system or multiple listings service) is a suite of services that enable real estate brokers to establish contractual offers of compensation (among brokers), facilitates cooperation with other broker participants, accumulates and disseminates information to enable appraisals, and is a facility for the orderly correlation and dissemination of listing information to better serve broker's clients, customers and the public.
+</template>
+</category>
+
+<category>
+<pattern>MLS *</pattern> 
+<template>
+A multiple listing service (MLS, also multiple listing system or multiple listings service) is a suite of services that enable real estate brokers to establish contractual offers of compensation (among brokers), facilitates cooperation with other broker participants, accumulates and disseminates information to enable appraisals, and is a facility for the orderly correlation and dissemination of listing information to better serve broker's clients, customers and the public.
+</template>
+</category>
+
+<category>
+<pattern>MLS</pattern> 
+<template>
+A multiple listing service (MLS, also multiple listing system or multiple listings service) is a suite of services that enable real estate brokers to establish contractual offers of compensation (among brokers), facilitates cooperation with other broker participants, accumulates and disseminates information to enable appraisals, and is a facility for the orderly correlation and dissemination of listing information to better serve broker's clients, customers and the public.
+</template>
+</category>
+
+<category>
+<pattern>* MORTGAGE *</pattern> 
+<template>
+US 30 Year Mortgage Rate is at 4.17%, compared to 4.19% last week and 3.72% last year. This is lower than the long term average of 8.24%.
+</template>
+</category>
+
+<category>
+<pattern>MORTGAGE *</pattern> 
+<template>
+US 30 Year Mortgage Rate is at 4.17%, compared to 4.19% last week and 3.72% last year. This is lower than the long term average of 8.24%.
+</template>
+</category>
+
+<category>
+<pattern>* MORTGAGE</pattern> 
+<template>
+US 30 Year Mortgage Rate is at 4.17%, compared to 4.19% last week and 3.72% last year. This is lower than the long term average of 8.24%.
+</template>
+</category>
+
+<category>
+<pattern>MORTGAGE</pattern> 
+<template>
+US 30 Year Mortgage Rate is at 4.17%, compared to 4.19% last week and 3.72% last year. This is lower than the long term average of 8.24%.
+</template>
+</category>
+
+<category>
+<pattern>* NOT * ANSWER *</pattern> 
+<template>
+Then what was the question? Sorry this is what I learned.
+</template>
+</category>
+
+<category>
+<pattern>* ANSWER * WRONG</pattern> 
+<template>
+Then what was the question? Sorry this is what I learned.
+</template>
+</category>
+
+<category>
+<pattern>* WRONG ANSWER *</pattern> 
+<template>
+Then what was the question? Sorry this is what I learned.
+</template>
+</category>
+
+<category>
+<pattern>* WRONG ANSWER</pattern> 
+<template>
+Then what was the question? Sorry this is what I learned.
+</template>
+</category>
+
+<category>
+<pattern>* ANSWER * WRONG</pattern> 
+<template>
+Then what was the question? Sorry this is what I learned.
+</template>
+</category>
+
+<category>
+<pattern>* VISHNU *</pattern> 
+<template>
+The one who programmed me.
+</template>
+</category>
+
+<category>
+<pattern>* VISHNU</pattern> 
+<template>
+The one who programmed me.
+</template>
+</category>
+
+<category>
+<pattern>WOW</pattern> 
+<template>
+Cheers..
+</template>
+</category>
+
+<category>
+<pattern>KUDOS</pattern> 
+<template>
+Cheers..
+</template>
+</category>
+
+
+
+</aiml>
